@@ -14,7 +14,7 @@ a product tracking shift register, and a 5-state safety-aware
 state machine — simulated entirely in TIA Portal with S7-PLCSIM.
 
 ## Demo Video
-[Watch State Machine Demo](demo/SCL_Conveyor_StateMachine_Demo.mp4)
+[![Watch the video](https://img.youtube.com/vi/QR6rjvVVjXo/0.jpg)](https://youtu.be/QR6rjvVVjXo)
 
 ## System Architecture
 ```
